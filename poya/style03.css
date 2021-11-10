@@ -1,0 +1,247 @@
+.background{
+    background-color:#ffffff;
+}
+
+.container{  
+    background-color:#ffffff;
+    height: 940px;  
+    width: 1260px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right:auto;
+  }
+
+.logo{
+    position: absolute;
+    padding-left: 100px;
+    width: 250px;
+    height: 83px;
+}
+
+.app{
+    position: absolute;
+    margin-left:785px;
+    margin-top: 15px;
+    color:#df006f;
+    font-family: 'Arial Regular';
+}
+
+.line{
+    position: absolute;
+    margin-left:890px;
+    margin-top: 15px;
+    width: 1px;
+    height: 22px;
+    background-color: #df006f;
+}
+
+.map{
+    position: absolute;
+    margin-left:900px;
+    margin-top: 15px;
+    color:#df006f;
+    font-family: 'Arial Regular';
+}
+
+.fb{
+    position: absolute;
+    width: 55px;
+    height: 55px; 
+    margin-left:980px;
+    margin-top: 1px;
+}
+
+.ig{
+    position: absolute; 
+    width: 50px;
+    height: 50px; 
+    margin-left:1050px;
+    margin-top: 4px;
+}
+
+.nav{
+    margin: 0;padding: 0;
+    position: absolute;
+    margin-top: 81px;
+    padding-left: 100px;
+    font-family: 'Arial Regular';
+    color: #ffffff;
+    max-width: 940px;
+    height: 44px;
+    display: flex;
+}
+
+.nav-list{
+    display: flex;
+    margin:16px,30px,16px,30px;
+    padding: 0;
+}
+
+.nav-list-item{
+    list-style: none;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+#box {
+    position: absolute; 
+    margin-top: 83px;
+    border-radius: 3px;
+    margin-left: 100px;
+    background-color:#df006f;
+    width: 1050px;
+    height:50px;
+}
+
+a{
+    color: #ffffff;
+    text-decoration:none;
+}
+
+.l1:hover{
+    background-color: lightgray;
+    width: 124px;
+    height: 24px;
+}
+
+.l2:hover{
+    background-color: lightgray;
+    width: 124px;
+    height: 24px;
+}
+
+.l3:hover{
+    background-color: lightgray;
+    width: 124px;
+    height: 24px;
+}
+
+#box1{
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 130px;
+    border-radius: 50px;
+    background-color: #f76a23;
+    width: 170px;
+    height: 40px;
+}
+
+.word{
+    position: absolute;
+    margin-top: 166px;
+    margin-left: 152px;
+    color: #ffffff;
+    font-family: 'Arial Regular';
+}
+
+.words{
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 152px;
+    font-family: 'Arial Regular';
+    line-height: 30px;
+}
+
+.orange{
+    color: #f76a23;
+}
+
+#box2{
+    position: absolute; 
+    margin-top: 830px;
+    border-radius: 3px;
+    margin-left: 100px;
+    background-color:#df006f;
+    width:1050px;
+    height:305px;
+}
+
+.circle1{
+    position: absolute;
+    margin-top: 860px;
+    margin-left: 365px;
+    width: 100px;
+    height: 100px;
+}
+
+.circle2{
+    position: absolute;
+    margin-top: 860px;
+    margin-left: 565px;
+    width: 100px;
+    height: 100px;
+}
+
+.circle3{
+    position: absolute;
+    margin-top: 860px;
+    margin-left: 765px;
+    width: 100px;
+    height: 100px;
+}
+
+.word1{
+    position: absolute;
+    margin-left: 380px;
+    margin-top: 975px;
+    color:#ffffff;
+    font-family: 'Arial Regular';
+}
+
+.word2{
+    position: absolute;
+    margin-left: 580px;
+    margin-top: 975px;
+    color:#ffffff;
+    font-family: 'Arial Regular';
+}
+
+.word3{
+    position: absolute;
+    margin-left: 782px;
+    margin-top: 975px;
+    color:#ffffff;
+    font-family: 'Arial Regular';
+}
+
+.liwo1{
+    position: absolute;
+    margin-left: 355px;
+    margin-top: 1000px;
+    color:#ffffff;
+    font-family: 'Arial Regular';
+}
+
+.liwo2{
+    position: absolute;
+    margin-left: 525px;
+    margin-top: 1000px;
+    color:#ffffff;
+    font-family: 'Arial Regular';
+}
+
+.liwo3{
+    position: absolute;
+    margin-left: 735px;
+    margin-top: 1000px;
+    color:#ffffff;
+    font-family: 'Arial Regular';
+}
+
+.line2{
+    position: absolute;
+    margin-left:100px;
+    margin-top: 1050px;
+    width: 1050px;
+    height: 2px;
+    background-color: #ffffff;
+}
+
+.word4{
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 1085px;
+    color:#ffffff;
+    font-family: 'Arial Regular';
+    font-size: 12px;
+}
